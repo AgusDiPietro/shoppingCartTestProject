@@ -1,1 +1,1 @@
-Configurando un carrito de compras, utilizando eventListeners y tambien localStorage para que el mismo quede guardado.
+Configuring a shopping cart, testing the use of eventListeners and also localStorage.
